@@ -15,3 +15,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit urna est, 
 [Energie et Changement Climatique](/docs/ecc.md)
 
 [Lotka-Volterra](/docs/lotka_volterra.md)
+
+[Data Visualization](/docs/dataviz.md)
